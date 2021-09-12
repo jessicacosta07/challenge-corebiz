@@ -138,13 +138,33 @@ li {
 }
 
 .card h6 {
-    font-size: 18px;
+    font-size: 26px;
     text-align: center;
     color: #000000;
-    font-weight: bold;
     margin: 2px;
 }
 
+.card  button {
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    width: 50%;
+    padding: 15px;
+    border:0px;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.card .botao {
+    background-color: #13da13;
+}
+
+.icon-whatsapp {  
+    max-width: 20px;
+    max-height:20px;
+}
 
 
 
