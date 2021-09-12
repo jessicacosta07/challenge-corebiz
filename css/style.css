@@ -96,3 +96,23 @@ li {
 
 /* Products */
 
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.card {
+    width: 24%;
+    margin: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius:10px;
+    padding-top: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: .4s;
+}
+
