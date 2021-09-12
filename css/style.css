@@ -31,7 +31,6 @@ li {
 .menu-bg,
 .menu {
     max-width: 960px;
-    height: 80px;
     margin:  0 auto;
     padding: 15px 0;
     display: flex;
