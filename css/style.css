@@ -111,8 +111,27 @@ li {
     box-sizing: border-box;
     text-align: center;
     border-radius:10px;
-    padding-top: 10px;
+    padding-top: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     transition: .4s;
 }
+
+.card:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    transform: translate(0px, -8px);
+    transition: .6s;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
 
