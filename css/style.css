@@ -91,6 +91,7 @@ li {
     display: flex;
     width: 50%;
     justify-content: space-between;
+    background-blend-mode: multiply;
     height: 400px;
 }
 
@@ -171,7 +172,6 @@ li {
         width: 100%;
     }
 }
-
 .icon-whatsapp {  
     max-width: 20px;
     max-height:20px;
