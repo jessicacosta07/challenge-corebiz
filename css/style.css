@@ -130,6 +130,20 @@ li {
     display: block;
 }
 
+.card  p {
+    text-align: center;
+    color: #4d4d4d;
+    padding: 0 8px;
+    margin-top: 2px;
+}
+
+.card h6 {
+    font-size: 18px;
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+    margin: 2px;
+}
 
 
 
