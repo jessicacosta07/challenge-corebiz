@@ -4,7 +4,7 @@ body, h1, h2, p, ul, li, a {
 }
 
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Nunito', Helvetica, sans-serif;
     color: #000000;
 }
 
@@ -193,6 +193,7 @@ li {
 }
 
 .registration-form input {
+    font-family: 'Nunito', Helvetica, sans-serif;
     display: flex;
     font-size: 14px;
     color: #ffff;
@@ -203,6 +204,7 @@ li {
 }
 
 .registration-form button {
+    font-family: 'Nunito', Helvetica, sans-serif;
     display: flex;
     font-size: 14px;
     background: #ffa31a;
@@ -217,13 +219,32 @@ li {
 footer {
     display: flex;
     background: #000000;
-    align-items: center;
     height: 200px;
 }
 
-.footer p {
-    flex:  1;
-    text-align: center;
-    font-size: 2.25em;
+.footer h2{
+    text-align: justify;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
     color: #fff;
+    margin-top: 18px;
+    margin-bottom: 6px;
+}
+
+.footer p {
+    text-align: justify;
+    font-size: 12px;
+    padding: 3px;
+    color: #fff;
+}
+
+.footer-button {
+    display: flex;
+    font-size: 14px;
+    background: #ffa31a;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: transparent;
 }
