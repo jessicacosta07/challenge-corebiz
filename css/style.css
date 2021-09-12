@@ -25,6 +25,8 @@ li {
     list-style: none;
 }
 
+/* Header */
+
 .menu-bg,
 .menu {
     max-width: 960px;
@@ -82,9 +84,15 @@ li {
     flex-wrap: wrap;
 }
 
+/* Slides */
+
 .slider-column{
     display: flex;
     width: 50%;
     justify-content: space-between;
     height: 400px;
 }
+
+
+/* Products */
+
