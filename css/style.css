@@ -86,12 +86,10 @@ li {
 
 /* Slides */
 
-.slider-column{
-    display: flex;
-    width: 50%;
-    justify-content: space-between;
-    background-blend-mode: multiply;
+.slider-conatiner img {
+    width: 100%;
     height: 400px;
+    background-blend-mode: normal;
 }
 
 
