@@ -104,12 +104,11 @@ li {
 }
 
 .card {
-    width: 24%;
-    margin: 15px;
+    margin: 20px;
     box-sizing: border-box;
     text-align: center;
     border-radius:10px;
-    padding-top: 20px;
+    padding-top: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     transition: .4s;
 }
@@ -142,7 +141,6 @@ li {
     margin: 2px;
 }
 
-
 .card h3 {
     text-align: center;
     color: #7A7A7A;
@@ -152,7 +150,7 @@ li {
 
 .card  button {
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     color: #fff;
     width: 50%;
     padding: 6px;
