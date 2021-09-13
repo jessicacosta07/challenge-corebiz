@@ -13,4 +13,6 @@ Create an ecommerce landing page
 ## Page
 
 ![image](https://user-images.githubusercontent.com/65916297/133016518-d2d29c29-797d-4a61-8e5d-57209f8fde8a.png)
+![image](https://user-images.githubusercontent.com/65916297/133016586-d0e71020-c13f-4973-b4ad-6b0a600f1d9b.png)
+
 
