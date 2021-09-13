@@ -11,3 +11,6 @@ Create an ecommerce landing page
 ![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Page
+
+![image](https://user-images.githubusercontent.com/65916297/133016518-d2d29c29-797d-4a61-8e5d-57209f8fde8a.png)
+
