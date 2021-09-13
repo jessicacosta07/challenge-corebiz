@@ -60,6 +60,12 @@ li {
     flex-wrap: wrap;
 }
 
+.menu-search input{
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 2px;
+}
+
 .menu-profile {
     display: flex;
     flex-wrap: wrap;
@@ -269,6 +275,10 @@ li {
     width: 70%;
     display: flex;
     word-wrap: break-word;
+}
+
+.footer-button a {
+    color: #fff;
 }
 
 .footer-img {
