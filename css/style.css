@@ -261,6 +261,10 @@ li {
     color: #fff;
 }
 
+.footer-container a {
+    color: #fff;
+}
+
 .footer-button button {
     font-family: 'Nunito', Helvetica, sans-serif;
     margin-top: 28px;
